@@ -1,0 +1,12 @@
+c:\users\sieyk\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\sieyk\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\sieyk\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\sieyk\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\sieyk\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\mscorlib.dll
+c:\users\sieyk\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\normidna.nlp
+c:\users\sieyk\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\normnfc.nlp
+c:\users\sieyk\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\normnfd.nlp
+c:\users\sieyk\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\normnfkc.nlp
+c:\users\sieyk\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\normnfkd.nlp
+c:\users\sieyk\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\sieyk\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
